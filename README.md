@@ -27,7 +27,7 @@ The main limitation encountered while carrying out this project was the size of 
 Additionally, our analysis began to hint at some larger trends in the movie industry: the decline in movie theater attendance and the rise of streaming services producing their own movies. Building on this project would require gathering data to compare the profitability of streaming service productions against traditional box office productions. 
 
 ## Jupyter Notebooks & Datasets
-**Studio Profitability Analayses:** studio_profitability.ipynb
+**Studio Profitability Analayses:** studio_profitability_final.ipynb
 
 **Genre Profitability Analysis:** genre-profitability-analysis.ipynb
 
