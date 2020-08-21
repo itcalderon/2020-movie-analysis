@@ -1,4 +1,4 @@
-# 2020-Movie Analysis
+# 2020 Movie Analysis
 
 ## Introduction
 The goal of this project was to provide contextual information and actionable insights to Microsoft to inform their decision about whether to join the movie production industry. We worked with four data sets from IMDb, TMDB, Box Office Mojo, and The Numbers database. However, these datasets were not complete with the necessary information needed for record linkage. As such, we gathered data through TMDB’s API and merged it with the existing data provided (IMDb, Box Office Mojo, and The Numbers) to be able to calculate profitability by genre and studio - our two primary analyses.
