@@ -134,5 +134,7 @@ dmypy.json
 
 # remove cdv's
 *.csv
+*.tsv
+*.csv.icloud
 
 
