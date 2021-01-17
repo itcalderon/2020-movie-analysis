@@ -31,7 +31,5 @@ Additionally, our analysis began to hint at some larger trends in the movie indu
 
 **Unemployment Analysis:** unemployment-and-profits-analysis.ipynb
 
-**TMDB/IMDb/BOM/Numbers dataset:** 'Cleaned Data/final_merged.csv'
-
-**Unemployment datasets:** 'Data/UNRATE.csv' & 'Data/budgets_UNRATE.csv'
+**Data Cleaning and Preparation:** Data Prep/
 
